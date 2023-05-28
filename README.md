@@ -19,7 +19,9 @@ From the analysis it necessary for the company to;
     .Focus more in marketing in the foreign market since its more profitable
     .Think critically in budgeting phase and maintain the budget baseline while focusing more in marketing since having the bigger budget doesn't necessary equal to successful movie 
     Movies made should be focused on the top 10 genres 
-    
+
+There is also a non technical presentation of analysis found below
+https://www.canva.com/design/DAFkNuL2tKE/b2qqz6TNOH3N6BnK909AoQ/edit
 
 If you have any questions or feedback, please reach out to us at [email@example.com](njugunajames796@gmail.com).
 
