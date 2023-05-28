@@ -1,4 +1,0 @@
-# ignore all .csv files
-*.csv
-#igonre all .tsv files
-*.tsv
